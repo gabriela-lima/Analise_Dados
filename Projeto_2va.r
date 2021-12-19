@@ -1,3 +1,8 @@
+#Projeto publicado: https://rpubs.com/Gabriela_lima/6788683
+#Base de dados: https://www.kaggle.com/kerneler/starter-fifa-20-ultimate-team-cb8ba4b6-b
+
+#FIFA 20
+
 #Blibliotecas utilizadas no projeto
 library("DT") # Usado nas tabelas com os jogadores
 library("plotly") # Usado nas tabelas com os jogadores
